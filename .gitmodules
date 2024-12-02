@@ -1,0 +1,6 @@
+[submodule "unity_test_cases"]
+	path = unity_test_cases
+	url = git@github.com:fabiorafaelcoutada/unity_test_cases.git
+[submodule "pytest_test_cases"]
+	path = pytest_test_cases
+	url = git@github.com:fabiorafaelcoutada/pytest_test_cases.git
