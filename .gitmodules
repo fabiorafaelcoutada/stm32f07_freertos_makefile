@@ -4,3 +4,6 @@
 [submodule "pytest_test_cases"]
 	path = pytest_test_cases
 	url = git@github.com:fabiorafaelcoutada/pytest_test_cases.git
+[submodule "stm32cubeIDE_freertos"]
+	path = stm32cubeIDE_freertos
+	url = git@github.com:fabiorafaelcoutada/stm32cubeIDE_freertos.git
